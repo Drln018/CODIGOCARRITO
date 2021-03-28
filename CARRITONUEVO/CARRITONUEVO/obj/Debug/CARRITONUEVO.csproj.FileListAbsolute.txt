@@ -1,0 +1,15 @@
+C:\Users\13237\OneDrive\Desktop\CARRITONUEVO\CARRITONUEVO\bin\Debug\CARRITONUEVO.exe.config
+C:\Users\13237\OneDrive\Desktop\CARRITONUEVO\CARRITONUEVO\bin\Debug\CARRITONUEVO.exe
+C:\Users\13237\OneDrive\Desktop\CARRITONUEVO\CARRITONUEVO\bin\Debug\CARRITONUEVO.pdb
+C:\Users\13237\OneDrive\Desktop\CARRITONUEVO\CARRITONUEVO\bin\Debug\Interop.WMPLib.dll
+C:\Users\13237\OneDrive\Desktop\CARRITONUEVO\CARRITONUEVO\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\13237\OneDrive\Desktop\CARRITONUEVO\CARRITONUEVO\obj\Debug\CARRITONUEVO.csprojAssemblyReference.cache
+C:\Users\13237\OneDrive\Desktop\CARRITONUEVO\CARRITONUEVO\obj\Debug\Interop.WMPLib.dll
+C:\Users\13237\OneDrive\Desktop\CARRITONUEVO\CARRITONUEVO\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\13237\OneDrive\Desktop\CARRITONUEVO\CARRITONUEVO\obj\Debug\CARRITONUEVO.csproj.ResolveComReference.cache
+C:\Users\13237\OneDrive\Desktop\CARRITONUEVO\CARRITONUEVO\obj\Debug\CARRITONUEVO.Form1.resources
+C:\Users\13237\OneDrive\Desktop\CARRITONUEVO\CARRITONUEVO\obj\Debug\CARRITONUEVO.Properties.Resources.resources
+C:\Users\13237\OneDrive\Desktop\CARRITONUEVO\CARRITONUEVO\obj\Debug\CARRITONUEVO.csproj.GenerateResource.cache
+C:\Users\13237\OneDrive\Desktop\CARRITONUEVO\CARRITONUEVO\obj\Debug\CARRITONUEVO.csproj.CoreCompileInputs.cache
+C:\Users\13237\OneDrive\Desktop\CARRITONUEVO\CARRITONUEVO\obj\Debug\CARRITONUEVO.exe
+C:\Users\13237\OneDrive\Desktop\CARRITONUEVO\CARRITONUEVO\obj\Debug\CARRITONUEVO.pdb
